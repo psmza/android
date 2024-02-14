@@ -1,8 +1,5 @@
 ---
 
-
----
-
 <h1 id="introduction-to-android">Introduction to Android</h1>
 <h3 id="android-versions">Android Versions</h3>
 <ol>
